@@ -1,7 +1,7 @@
 # Bike
  Simple project to showcase a 3d bike in blender. (2020)
 
- Here I make a 3D bike after seen a youtube (watch [@James Biggar ](https://youtu.be/gYs_jYUyaoY?t=1591)) video in 2020. 
+ Here I make a 3D bike after seen a youtube (watch[@James Biggar](https://youtu.be/gYs_jYUyaoY?t=1591)) video in 2020. 
 
  ## Project description
 Name: Bike-3D<br>
@@ -19,11 +19,9 @@ Year: 2020
 <img src="demo/sample2.png" alt="back" width="500"/>
 
 ## Render Img
-<img src="demo/1.png" alt="back" width="400"/> <br>
-<img src="demo/2.png" alt="back" width="400"/>  <img src="demo/3.png" alt="back" width="400"/> 
-<img src="demo/4.png" alt="back" width="400"/>  <img src="demo/5.png" alt="back" width="400"/> 
-<img src="demo/6.png" alt="back" width="400"/>  <img src="demo/7.png" alt="back" width="400"/> 
-<img src="demo/8.png" alt="back" width="400"/>  <img src="demo/9.png" alt="back" width="400"/> 
+<img src="demo/1.png" alt="back" width="270"/>  <img src="demo/2.png" alt="back" width="270"/>  <img src="demo/3.png" alt="back" width="270"/> 
+<img src="demo/4.png" alt="back" width="270"/>  <img src="demo/5.png" alt="back" width="270"/>  <img src="demo/6.png" alt="back" width="270"/>  
+<img src="demo/7.png" alt="back" width="270"/>  <img src="demo/8.png" alt="back" width="270"/>  <img src="demo/9.png" alt="back" width="270"/> 
 
 
 ## 3D file
